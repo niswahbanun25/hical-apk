@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hi Cal</string>
+    <string name="emailwarning">Email Invalid\n</string>
+    <string name="passwordwarning">Minimum 8 characters</string>
+    <string name="placeholder_nama">Enter Your Name</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="placeholder_email">Enter Your Email\n</string>
+    <string name="password">Password</string>
+    <string name="placeholder_password">Enter Your Password</string>
+    <string name="retry">Retry\n</string>
+    <string name="slogan">Your Personal Nutrition Tracker</string>
+    <string name="captured_image">Capture Image\n</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_calculation">Calculation.</string>
+    <string name="title">Title</string>
+</resources>
