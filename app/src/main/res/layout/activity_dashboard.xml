@@ -89,8 +89,9 @@
                 android:paddingStart="16dp"
                 android:paddingEnd="16dp"
                 android:visibility="gone"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
-                tools:layout_editor_absoluteX="11dp"
                 tools:visibility="visible">
 
                 <LinearLayout
